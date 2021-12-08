@@ -1,0 +1,5 @@
+.product{
+    display:flex;
+    padding: 20px;
+    background: gray;
+}
